@@ -88,5 +88,5 @@ This project provides a comprehensive analysis of sales data, offering insights 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](licencse.txt)
 
