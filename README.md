@@ -1,6 +1,6 @@
 ### PowerBI E-Commerce Sales Dashboard
 
-**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiNTQzYzEzY2MtMmJlMS00YWNjLWJhMzItYThiOWI5MmVlZDcxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTQzYzEzY2MtMmJlMS00YWNjLWJhMzItYThiOWI5MmVlZDcxIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
 
 **Description:**
 Developed a comprehensive E-Commerce Sales Dashboard using PowerBI to visualize key performance indicators (KPIs) and provide actionable insights for business decision-making. The dashboard includes:
